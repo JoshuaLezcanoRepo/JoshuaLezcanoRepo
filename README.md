@@ -14,8 +14,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/https://codepen.io/joshualezcanorepo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/joshualezcanorepo" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/joshualezcanorepo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/joshualezcanorepo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joshua-david-lezcano-genes-898095231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joshua-david-lezcano-genes-898095231" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/joshualezcano8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/joshualezcano8" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/joshualezcano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/joshualezcano" height="30" width="40" /></a>
