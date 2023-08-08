@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Joshua David</h1>
 <h3 align="center">I'm a Junior FrontEnd Programmer!</h3>
 
-- 🔭 I’m currently studying on [Argentina Programa + Mind Hub](https://www.argentina.gob.ar/economia/conocimiento/argentina-programa)
+- 🔭 I’m currently studying on [Argentina Programa + Mind Hub](https://mindhubweb.com/)
 
 - 🌱 I’m currently learning **React**
 
