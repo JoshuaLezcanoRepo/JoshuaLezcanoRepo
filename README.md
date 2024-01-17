@@ -1,4 +1,4 @@
-![LinkedIn cover - 4](https://github.com/JoshuaLezcanoRepo/JoshuaLezcanoRepo/assets/96133436/3908fb24-6adc-48ec-8669-5d47ec22a645)
+<img src="https://github.com/JoshuaLezcanoRepo/JoshuaLezcanoRepo/assets/96133436/3908fb24-6adc-48ec-8669-5d47ec22a645">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=joshualezcanorepo&label=Profile%20views&color=0e75b6&style=flat" alt="joshualezcanorepo" /> </p>
 
